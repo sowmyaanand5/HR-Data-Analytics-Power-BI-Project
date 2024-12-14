@@ -33,7 +33,7 @@ The goal of this HR Analytics Dashboard is to analyse key HR metrics, such as em
      
      •	Order of Attrition: Highlights  phases where employees tend to leave early.
 
-6.	Performance Insights
+5.	Performance Insights
       
      •	Top Departments: Departments facing the highest attrition.
 
