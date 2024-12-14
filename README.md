@@ -57,10 +57,11 @@ The goal of this HR Analytics Dashboard is to analyse key HR metrics, such as em
      
      •	Analyzes employee exits based on years at the company.
 
-4.Performance Insights:
+4. Performance Insights:
 
-     •	Provides actionable insights to improve employee retention strategies and workforce engagement.
+      •	Provides actionable insights to improve employee retention strategies and workforce engagement.
 
+     
   ## Conclusion
 
   
