@@ -7,11 +7,11 @@ The goal of this HR Analytics Dashboard is to analyse key HR metrics, such as em
 
 1.	Employee Demographics
    
-  •	Total Employees: Overview of total workforce count.
-  
-  •	Average Age: Insights into the average age of employees.
-  
-  •	Years at Company: Tracks average tenure and experience levels of employees.
+     •	Total Employees: Overview of total workforce count.
+     
+     •	Average Age: Insights into the average age of employees.
+     
+     •	Years at Company: Tracks average tenure and experience levels of employees.
 
 2.	Attrition Analysis
    
