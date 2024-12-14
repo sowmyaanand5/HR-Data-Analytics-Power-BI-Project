@@ -15,51 +15,51 @@ The goal of this HR Analytics Dashboard is to analyse key HR metrics, such as em
 
 2.	Attrition Analysis
    
-  •	Attrition Rate: Total attrition percentage and monthly trends.
-  
-  •	Attrition by Age: Breakdown of attrition across age groups.
-  
-  •	Attrition by Gender: Segmentation of attrition among male and female employees.
+     •	Attrition Rate: Total attrition percentage and monthly trends.
+     
+     •	Attrition by Age: Breakdown of attrition across age groups.
+     
+     •	Attrition by Gender: Segmentation of attrition among male and female employees.
 
 3.	Salary Metrics
    
-  •	Attrition by Salary Slab: Breakdown of attrition by salary.
-  
-  •	Average Salary: Insights into average salary levels across the workforce.
+     •	Attrition by Salary Slab: Breakdown of attrition by salary.
+     
+     •	Average Salary: Insights into average salary levels across the workforce.
 
 4.	Engagement Metrics
    
-  •	Years at Company: Attrition distribution based on employee tenure.
-  
-  •	Order of Attrition: Highlights  phases where employees tend to leave early.
+     •	Years at Company: Attrition distribution based on employee tenure.
+     
+     •	Order of Attrition: Highlights  phases where employees tend to leave early.
 
 6.	Performance Insights
-   
-  •	Top Departments: Departments facing the highest attrition, such as Research & Development and Sales.
+      
+     •	Top Departments: Departments facing the highest attrition.
 
   ## Key Features
 
 1.  Workforce and Attrition Insights:
-  
-  •	Displays total employee count, attrition rate, and average years of service to monitor workforce stability.
-  
-  •	Highlights key attrition periods, such as first-year exits and trends across age groups and salary levels.
+     
+     •	Displays total employee count, attrition rate, and average years of service to monitor workforce stability.
+     
+     •	Highlights key attrition periods, such as first-year exits and trends across age groups and salary levels.
 
 2.  Role-Specific Analysis:
    
-  •	Tracks attrition by job roles, identifying critical roles with the highest turnover.
-  
-  •	Enables focus on departments with significant attrition trends.
+     •	Tracks attrition by job roles, identifying critical roles with the highest turnover.
+     
+     •	Enables focus on departments with significant attrition trends.
 
 3. Salary and Tenure Metrics:
      
-  •	Highlights attrition by salary slabs to understand turnover trends.
-  
-  •	Analyzes employee exits based on years at the company.
+     •	Highlights attrition by salary slabs to understand turnover trends.
+     
+     •	Analyzes employee exits based on years at the company.
 
 4.Performance Insights:
 
-  •	Provides actionable insights to improve employee retention strategies and workforce engagement.
+     •	Provides actionable insights to improve employee retention strategies and workforce engagement.
 
   ## Conclusion
 
