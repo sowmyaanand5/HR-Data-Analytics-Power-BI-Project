@@ -1,4 +1,4 @@
-# HR-Analytics-Power-BI-Project
+# HR-Data-Analytics-Power-BI-Project
 
 ## Project Overview
 The goal of this HR Analytics Dashboard is to analyse key HR metrics, such as employee attrition, workforce demographics, job roles etc. This helps HR professionals identify trends, understand reasons for attrition and make data-driven decisions to improve employee retention and performance.
